@@ -15,7 +15,7 @@ This repository can be used for building
 # Getting started
 - Clone the repository
 ```
-git clone --depth=1 https://github.com/eelmogy/CRUD-Typescript <project_name>
+git clone --depth=1 https://github.com/EmadElmogy/CRUD-User-Hobbies <project_name>
 ```
 - Install dependencies
 ```
