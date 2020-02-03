@@ -45,10 +45,6 @@ To access Swagger UI for available endpoints
 http://localhost:3000/api-docs/#/
 ```
 
-# REST endpoints
-- public: `/auth/login`, `/auth/register`, `/auth/activate`
-- protected: `/users`
-
 # Tests
 * Before running tests be sure to create a real `.env` file in root using the fields found in `.env.example`
 ```
